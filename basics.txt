@@ -1,0 +1,26 @@
+Data Structures and Algorithms (DSA) refer to the study of methods for organizing and storing data and 
+the design of procedures (algorithms) for solving problems, which operate on these data structures
+
+two types of DSA
+1.linear 
+   * array (static data structure)
+   * stack (dynamic)
+   * queue (dynamic)
+   * linked list (dynamic)
+
+2.non_linear
+   * tree
+   * graph
+   * heap
+
+TIME COMPLEXITY
+1. big O notation
+2. omega notation
+3. theta notation
+
+Big O notation 
+ 1.o(1)---- constant 
+ 2.o(n)---- linear 
+ 3.o(logN)-----lograthmic
+ 4.o(NlogN)-----linear lograthmic
+ 5.O(n^2)-----quadratic 
